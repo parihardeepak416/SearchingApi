@@ -1,0 +1,7 @@
+.search-result{
+	position: absolute;
+	background: white;
+	width: 100%;
+	border: 1px solide gray;
+	display: none;
+}
